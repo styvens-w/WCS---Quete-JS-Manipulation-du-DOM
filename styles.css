@@ -30,7 +30,7 @@ header {
     margin: 20px;
     display: flex;
     flex-direction: column;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0 8px 24px;
 }
 .card-img {
     border-radius: 10px 10px 0 0;
@@ -42,7 +42,7 @@ header {
     padding: 10px 20px;
 }
 .card-body h2 {
-    margin: 10px 0px;
+    margin: 10px 0;
 }
 .card-button {
     border: none;
